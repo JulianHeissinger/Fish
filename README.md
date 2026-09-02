@@ -5,6 +5,7 @@ Unity project simulating 3D fish flocking behavior using classic boid algorithms
 ## Key Scripts
 
 • SwarmBehaviour.cs: Handles boid steering forces, neighbor detection, and physics movement.
+
 • SwarmSpawner.cs: Spawns, initializes, and manages flock instances at runtime.
 
 ## Actual simulation
